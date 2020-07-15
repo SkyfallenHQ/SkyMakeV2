@@ -127,7 +127,7 @@ if (isset($_POST["backbtn"])){
          <p id="timer" name="timer"></p>
         </form>
         <div class="footer">
-            <p>Hermes connected @5.2.82.45 for MYSQL and Apache2 <br> deducated, Inc. by The Skyfallen Company <details>Your IP Address: <?php echo getRemoteIPAddress();?><br>Service connected to The Skyfallen Servers at Izmir-TR<br>Debugging Info:<br>Status Code:DDCTD-SCCS003 - Webserver connected: Izmir TR - Database Server Connected: IZM-TR Database Link: UP Skyfallen App ID:00SD3</p></details></div>
+            <p>SkyMake Version 2 Production Release - The Skyfallen Production Company</p></div>
 </body>
     <script>
     // Set the date we're counting down to
