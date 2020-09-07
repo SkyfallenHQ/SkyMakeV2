@@ -24,12 +24,3 @@ https://opensource.theskyfallen.com
 
 # Skyfallen Open Source Licence
 thesf.me/licence/skymake/
-
-# Compiled on:
-i5-7200U - 4GB Ram - Hackintosh 10.10(Initial Release) - Service Pack(Hackintosh 10.15)
-
-# Software Used:
-PhpStorm by JetBrains // jetbrains.com/phpstorm
-
-# Contribute
-contribute.theskyfallen.com/skymake/
