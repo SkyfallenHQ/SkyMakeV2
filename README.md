@@ -1,4 +1,7 @@
 # SkyMake Version 2
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/377c98b44cd74d23945b3380bfbd4f5c)](https://app.codacy.com/gh/TheSkyfallenCompany/SkyMakeV2?utm_source=github.com&utm_medium=referral&utm_content=TheSkyfallenCompany/SkyMakeV2&utm_campaign=Badge_Grade)
+
 The Official SkyMake Repository for SkyMake Version 2
 
 # SkyMake 2 End of Life
